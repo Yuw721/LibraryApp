@@ -1,0 +1,311 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/bootPage"
+		},
+		{
+			"path": "pages/index/index"
+		},
+		{
+			"path": "pages/index/sweepCode"
+		},
+		{
+			"path": "pages/index/bookInfo"
+		},
+		{
+			"path": "pages/index/freeCard"
+		},
+		{
+			"path": "pages/index/search"
+		},
+		{
+			"path": "pages/index/searchResult"
+		},
+		{
+			"path": "pages/index/messageCenter"
+		},
+		{
+			"path": "pages/index/message_det"
+		},
+		{
+			"path": "pages/index/booksList"
+		},
+		{
+			"path": "pages/index/listTheList"
+		},
+		{
+			"path": "pages/index/week_activity"
+		},
+		{
+			"path": "pages/index/activity_det"
+		},
+		{
+			"path": "pages/book/bookList_det"
+		},
+		{
+			"path": "pages/book/book"
+		},
+		{
+			"path": "pages/book/dramaList"
+		},
+		{
+			"path": "pages/book/dramaCharacters"
+		},
+		{
+			"path": "pages/book/redOberoiList"
+		},
+		{
+			"path": "pages/book/townList"
+		},
+		{
+			"path": "pages/book/drama_det"
+		},
+		{
+			"path": "pages/book/book_det"
+		},
+		{
+			"path": "pages/book/videoList"
+		},
+		{
+			"path": "pages/book/video_det"
+		},
+		{
+			"path": "pages/book/libraryList"
+		},
+		{
+			"path": "pages/book/newBook"
+		},
+		{
+			"path": "pages/book/moreBookList"
+		},
+		{
+			"path": "pages/service/service"
+		},
+		{
+			"path": "pages/service/nearby"
+		},
+		{
+			"path": "pages/service/accessRegister"
+		},
+		{
+			"path": "pages/service/accessAccount"
+		},
+		{
+			"path": "pages/service/stackRoom"
+		},
+		{
+			"path": "pages/service/wish"
+		},
+		{
+			"path": "pages/service/myActivities"
+		},
+		{
+			"path": "pages/service/historicalAct"
+		},
+		{
+			"path": "pages/service/activityApply"
+		},
+		{
+			"path": "pages/service/activityPay"
+		},
+		{
+			"path": "pages/service/activitiesIn"
+		},
+		{
+			"path": "pages/service/applyDefeated"
+		},
+		{
+			"path": "pages/service/applySucceed"
+		},
+		{
+			"path": "pages/service/car"
+		},
+		{
+			"path": "pages/service/carPay"
+		},
+		{
+			"path": "pages/service/paySucceed"
+		},
+		{
+			"path": "pages/service/payRecord"
+		},
+		{
+			"path": "pages/service/delayPay"
+		},
+		{
+			"path": "pages/service/bookSub"
+		},
+		{
+			"path": "pages/service/bookAffirmSub"
+		},
+		{
+			"path": "pages/service/subSucceed"
+		},
+		{
+			"path": "pages/service/mySub"
+		},
+		{
+			"path": "pages/service/renew"
+		},
+		{
+			"path": "pages/service/bookRetrieval"
+		},
+		{
+			"path": "pages/service/advancedSrh"
+		},
+		{
+			"path": "pages/service/bookSrhResults"
+		},
+		{
+			"path": "pages/service/libraryRetrieval"
+		},
+		{
+			"path": "pages/service/libraryList"
+		},
+		{
+			"path": "pages/service/library_det"
+		},
+		{
+			"path": "pages/service/mailbox"
+		},
+		{
+			"path": "pages/service/mailboxSubmit"
+		},
+		{
+			"path": "pages/my/my"
+		},
+		{
+			"path": "pages/my/share"
+		},
+		{
+			"path": "pages/my/aboutApp"
+		},
+		{
+			"path": "pages/my/todayToSee"
+		},
+		{
+			"path": "pages/my/trendAnalysis"
+		},
+		{
+			"path": "pages/my/bindCard"
+		},
+		{
+			"path": "pages/my/binding"
+		},
+		{
+			"path": "pages/my/personal"
+		},
+		{
+			"path": "pages/my/set"
+		},
+		{
+			"path": "pages/my/informationEntry"
+		},
+		{
+			"path": "pages/my/basicInformation"
+		},
+		{
+			"path": "pages/my/optionalModule"
+		},
+		{
+			"path": "pages/my/infoType0"
+		},
+		{
+			"path": "pages/my/infoType1"
+		},
+		{
+			"path": "pages/my/infoType2"
+		},
+		{
+			"path": "pages/my/achievement"
+		},
+		{
+			"path": "pages/my/collect"
+		},
+		{
+			"path": "pages/my/helpFeedback"
+		},
+		{
+			"path": "pages/my/problem_det"
+		},
+		{
+			"path": "pages/my/realNameProtocol"
+		},
+		{
+			"path": "pages/my/realName"
+		},
+		{
+			"path": "pages/my/realNamePicture"
+		},
+		{
+			"path": "pages/my/readReport"
+		},
+		{
+			"path": "pages/my/photograph"
+		},
+		{
+			"path": "pages/my/browseHistory"
+		},
+		{
+			"path": "pages/my/login"
+		},
+		{
+			"path": "pages/my/phoneLogin"
+		},
+		{
+			"path": "pages/my/code"
+		},
+		{
+			"path": "pages/my/mall/integral"
+		},
+		{
+			"path": "pages/my/mall/integral_det"
+		},
+		{
+			"path": "pages/my/mall/forRecord"
+		},
+		{
+			"path": "pages/my/mall/ticket"
+		},
+		{
+			"path": "pages/my/mall/for_det"
+		},
+		{
+			"path": "pages/my/mall/taskList"
+		}
+	],
+	"tabBar": {
+		"color": "#666666",
+		"selectedColor": "#666666",
+		"backgroundColor": "#ffffff",
+		"borderStyle": "black",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"text": "首页",
+				"iconPath": "./static/imgs/index.png",
+				"selectedIconPath": "static/imgs/index_sel.png"
+			},
+			{
+				"pagePath": "pages/service/service",
+				"text": "服务",
+				"iconPath": "static/imgs/service.png",
+				"selectedIconPath": "static/imgs/service_sel.png"
+			},
+			{
+				"pagePath": "pages/book/book",
+				"text": "悦读",
+				"iconPath": "static/imgs/book.png",
+				"selectedIconPath": "static/imgs/book_sel.png"
+			},
+			{
+				"pagePath": "pages/my/my",
+				"text": "我的",
+				"iconPath": "static/imgs/my.png",
+				"selectedIconPath": "static/imgs/my_sel.png"
+			}
+		]
+	},
+	"globalStyle": {
+		"navigationStyle": "custom"
+	}
+}
